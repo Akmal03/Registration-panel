@@ -9,7 +9,8 @@
 
 Хочу вам показать что у меня получился оставлю тут фотки 
 
-![{519D509E-E937-4CA8-B8C2-804ECEEBA939}](https://github.com/user-attachments/assets/d463493f-2e53-4317-a880-7ded1aab9a6c)
+![{2BE171CC-0F52-41C9-8E9D-C9CD36363491}](https://github.com/user-attachments/assets/1cfbffe4-2324-46ea-b1ad-c9c364076848)
+
 
 
 А это скрин с БД !!!
